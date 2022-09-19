@@ -12,4 +12,4 @@ Render on changes to search input.
 Tech Stack Used: 
 React, Javascript,HTML, CSS
 
-Live Site URL:- https://eloquent-longma-9a4edc.netlify.app/
+Live Site URL:- https://eloquent-longma-9a4edc.netlify.app
